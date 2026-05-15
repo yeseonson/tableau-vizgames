@@ -1,0 +1,12 @@
+.env
+.DS_Store
+.claude/
+__pycache__/
+data/
+CLAUDE.md
+*.ipynb
+*.log
+*.pyc
+*.lock
+*.twb
+*.png
