@@ -5,8 +5,8 @@
 **[대시보드 바로가기](https://public.tableau.com/views/_17788074757220/Main)**
 
 - **Timeline**: 50개 작품의 시간순 흐름
-- **Costars**: 151명의 동료와 56번의 재회
-- **Characters**: 44개의 캐릭터, 44개의 인생
+- **Costars**: 151명의 동료와의 협업
+- **Characters**: 44개의 캐릭터
 
 ---
 
