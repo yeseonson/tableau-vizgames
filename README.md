@@ -21,3 +21,8 @@
 1. **Collect** — Python으로 KOPIS OpenAPI 공연·출연진 데이터 수집
 2. **Clean** — Pandas로 배우·작품·제작사 레코드 정규화 및 조인
 3. **Visualize** — Tableau 대시보드로 타임라인·동료 관계·캐릭터 시각화
+
+---
+
+### 참가 인증서
+![Certificate](2026%20VizGames%20Certificate%20of%20Participation.png)
